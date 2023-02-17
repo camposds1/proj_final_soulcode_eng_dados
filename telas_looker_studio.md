@@ -1,10 +1,10 @@
-<h1>Aqui são prints dos relatório criados utilizando o Looker Studio, para melhor disualização e obtenção de insghts através dos dados tratados no projeto</h1>
-<img src="https://drive.google.com/file/d/1Oop6cPkub_NbVCTIU-PwZwXWKErIEy9P/view?usp=share_link" alt="relatorio 01 - indicadores climaticos">
-<img src="https://drive.google.com/file/d/1NHtWHdWL7CGpGvG64iHwj_DM7uJNIynS/view?usp=share_link" alt="relatorio 02 - temperatura">
-<img src="https://drive.google.com/file/d/1LpVTx-iawZCtlIPQYJuGv2WoGcZgb9DW/view?usp=share_link" alt="relatorio 03 - emissao co2">
-<img src="https://drive.google.com/file/d/1H-8WJutWFLEMBLEGHeeWlb8AKSO6Rj27/view?usp=share_link" alt="relatorio 04 - desastres naturais">
-<img src="https://drive.google.com/file/d/1hNcNbDqjEE9qp1CAowwN6Vib65pHlJTM/view?usp=share_link" alt="relatorio 05 - desastres naturais continuacao">
-<img src="https://drive.google.com/file/d/1KLAYqRUE9zogarPIHIlmkjGuvFKIruf8/view?usp=share_link" alt="relatorio 06 - umidade">
-<img src="https://drive.google.com/file/d/1HBsIm9uFVRjBwHqLnvDaNprvS7GHAqJx/view?usp=share_link" alt="relatorio 07 - queimadas">
-<img src="https://drive.google.com/file/d/1PMFCzJrcip3xWj8FMZVLXPcLpJ_WkSVQ/view?usp=share_link" alt="relatorio 08 - producao agraria">
-<img src="https://drive.google.com/file/d/1HnDr1Hu0Pi_pjxkHyGLrasxDYhEt0pC3/view?usp=share_link" alt="relatorio 09 - producao agraria - mapas">
+<h3>Aqui são prints dos relatório criados utilizando o Looker Studio, para melhor disualização e obtenção de insghts através dos dados tratados no projeto</h3>
+![01 ind_cli](https://user-images.githubusercontent.com/84914580/219737296-72685fdd-ba16-4935-96e2-a88610468917.png)
+![02 temp](https://user-images.githubusercontent.com/84914580/219737315-ac4506ae-7051-4fc1-aca0-b42847ec102a.png)
+![03 co2](https://user-images.githubusercontent.com/84914580/219737327-95647df1-ece9-415e-80a4-782b5f73d22c.png)
+![04 des_nat](https://user-images.githubusercontent.com/84914580/219737336-d8ffc361-3ecf-4887-8501-b8422a3178ec.png)
+![05 des_nat_14](https://user-images.githubusercontent.com/84914580/219737349-48ec5ac5-7f65-46e0-aa55-d81b413e1641.png)
+![06 umidade](https://user-images.githubusercontent.com/84914580/219737356-02331c63-b3a9-400c-a8a7-9ba728763386.png)
+![07 queimadas](https://user-images.githubusercontent.com/84914580/219737362-8fd4628d-e2d5-48e8-baad-4a29485883c8.png)
+![08 prod_agr](https://user-images.githubusercontent.com/84914580/219737370-6927aa11-65e2-443c-887a-b8b8d91f1a47.png)
+![09 prod_agr_mapas](https://user-images.githubusercontent.com/84914580/219737380-5366bf7b-4bb2-47ab-8934-3090d02ad1c5.png)
